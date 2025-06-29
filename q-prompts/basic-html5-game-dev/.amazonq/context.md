@@ -13,7 +13,8 @@ Create a complete HTML5 game with a custom physics engine that includes collisio
 ## Technical Requirements
 
 ### Core Game Structure
-- Single HTML file with embedded CSS and JavaScript
+- Create new folder , use game name as folder name. If game name is existing, design new name that short, creative and relavant to game concept.
+- Separate HTML file, CSS and JavaScript 
 - Canvas-based rendering system
 - Game loop with consistent frame rate (60 FPS target)
 - Modular code architecture with separate classes for different components
