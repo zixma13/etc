@@ -1,4 +1,4 @@
-Please perform an AWS Well-Architected Framework audit for Singapore region (ap-southeast-1) focusing on Security and Reliability pillars following the official AWS Well-Architected Framework structure. Return results in checklist format with pass/fail status.
+Please perform an AWS Well-Architected Framework audit for N. Virginia region focusing on Security and Reliability pillars following the official AWS Well-Architected Framework structure. Return results in checklist format with pass/fail status.
 
 === SECURITY PILLAR ===
 Based on AWS Well-Architected Security Pillar Design Principles:
